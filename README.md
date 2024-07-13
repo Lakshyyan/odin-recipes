@@ -1,1 +1,1 @@
-This is a project made for the Odin Project. Its purpose is to help me practice the things I learned on the siteThis is a project made for the Odin Project. Its purpose is to help me practice the things I learned on the site.
+This is a project made for the Odin Project. Its purpose is to help me practice the things I learned on the site.
